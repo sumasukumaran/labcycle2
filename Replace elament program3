@@ -1,6 +1,6 @@
 import java.util.*;import
 import java.io.*;
-class HelloWorld {
+class replace {
     public static void main(String[] args) {
         Scanner obj = new Scanner (System.in);
         System.out.println("Enter the number of entries:");
